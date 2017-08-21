@@ -14,7 +14,7 @@ This project use website as a GUI interface. Write HTML code post command to bac
 # Resault
 The simple website shoe as below. Right window show the webcam stream, and left window show the command block.</br>
 <img src="https://github.com/Kuanwei1225/Raspberry-pi-remote-car/blob/master/image/final.jpg" width = "70%" height = "70%"></br>
-Test the webcam stream.
+Test the webcam stream.</br>
 <img src="https://github.com/Kuanwei1225/Raspberry-pi-remote-car/blob/master/image/camara.jpg" width = "70%" height = "70%"></br>
-Remote car.
+Remote car.<br>
 <img src="https://github.com/Kuanwei1225/Raspberry-pi-remote-car/blob/master/image/car.jpg" width = "70%" height = "70%"></br>
